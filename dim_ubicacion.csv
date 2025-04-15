@@ -1,0 +1,1001 @@
+id_ubicacion,pais,region,ciudad,codigo_postal,zona_cobertura,tipo_area,torre_cercana
+1,Perú,Oklahoma,Travismouth,43943,Rural,Comercial,Torre_45
+2,Perú,Alaska,East Michael,47941,Urbana,Comercial,Torre_64
+3,Perú,Florida,North Morgan,46466,Urbana,Comercial,Torre_61
+4,Perú,Wisconsin,South Seanfurt,11539,Urbana,Comercial,Torre_39
+5,Perú,Delaware,West Anthonytown,68058,Rural,Residencial,Torre_59
+6,Perú,Arkansas,Coffeyborough,76748,Urbana,Comercial,Torre_36
+7,Perú,Massachusetts,South Curtis,37233,Urbana,Comercial,Torre_70
+8,Perú,Maryland,Hoffmanview,03341,Rural,Comercial,Torre_26
+9,Perú,Texas,East Brianview,18352,Rural,Comercial,Torre_99
+10,Perú,Illinois,Warrenshire,08275,Rural,Residencial,Torre_66
+11,Perú,Wyoming,Lauriemouth,09541,Urbana,Residencial,Torre_65
+12,Perú,California,Silvaview,72704,Urbana,Residencial,Torre_24
+13,Perú,Utah,Jessehaven,44273,Rural,Comercial,Torre_28
+14,Perú,Arkansas,South Alexandra,10503,Urbana,Residencial,Torre_43
+15,Perú,Wisconsin,Lake Lisamouth,77852,Rural,Comercial,Torre_8
+16,Perú,Iowa,New Teresaborough,96526,Urbana,Comercial,Torre_28
+17,Perú,Washington,New Johnside,35701,Rural,Residencial,Torre_81
+18,Perú,Idaho,Edwardbury,19475,Urbana,Comercial,Torre_98
+19,Perú,Mississippi,Fernandezchester,45666,Rural,Residencial,Torre_8
+20,Perú,Missouri,South Jose,82521,Rural,Residencial,Torre_13
+21,Perú,Tennessee,West Stephanieport,76612,Urbana,Comercial,Torre_71
+22,Perú,North Dakota,Conniebury,84934,Urbana,Comercial,Torre_93
+23,Perú,South Carolina,Smithville,32742,Urbana,Residencial,Torre_3
+24,Perú,Utah,New Mark,78348,Urbana,Comercial,Torre_60
+25,Perú,Mississippi,North Bob,01299,Urbana,Residencial,Torre_34
+26,Perú,Nebraska,New Eric,57842,Urbana,Residencial,Torre_83
+27,Perú,Indiana,East Amy,72021,Urbana,Comercial,Torre_62
+28,Perú,Montana,Pricestad,45067,Rural,Residencial,Torre_57
+29,Perú,Washington,Maxshire,56572,Urbana,Comercial,Torre_75
+30,Perú,Arizona,East Briannatown,98324,Rural,Residencial,Torre_90
+31,Perú,Rhode Island,Kimberlystad,52601,Rural,Residencial,Torre_56
+32,Perú,West Virginia,Christophershire,90540,Rural,Comercial,Torre_89
+33,Perú,Iowa,Michaelchester,50922,Urbana,Residencial,Torre_24
+34,Perú,Oregon,West Stacey,61164,Urbana,Residencial,Torre_32
+35,Perú,Alabama,Laurenborough,89109,Urbana,Comercial,Torre_100
+36,Perú,New Hampshire,New Dennis,15805,Rural,Comercial,Torre_31
+37,Perú,West Virginia,West Bonnieside,69531,Rural,Residencial,Torre_37
+38,Perú,Alabama,New Gabrielview,01193,Urbana,Residencial,Torre_36
+39,Perú,Nebraska,Bakerburgh,58417,Urbana,Residencial,Torre_16
+40,Perú,Georgia,Barnesville,34651,Rural,Residencial,Torre_59
+41,Perú,Wyoming,Edwardburgh,89476,Rural,Residencial,Torre_18
+42,Perú,Illinois,Sethland,15402,Rural,Residencial,Torre_38
+43,Perú,California,Lauraview,47552,Urbana,Comercial,Torre_39
+44,Perú,Pennsylvania,Lorichester,10215,Urbana,Comercial,Torre_96
+45,Perú,South Dakota,East Eric,64770,Urbana,Residencial,Torre_51
+46,Perú,Florida,Riddlechester,44367,Urbana,Residencial,Torre_12
+47,Perú,Massachusetts,Port Aaron,69661,Urbana,Residencial,Torre_19
+48,Perú,Wisconsin,North Scott,52260,Urbana,Residencial,Torre_51
+49,Perú,Louisiana,Port Brettfurt,50149,Urbana,Residencial,Torre_58
+50,Perú,Maine,Colleenborough,13758,Urbana,Comercial,Torre_12
+51,Perú,Wyoming,Smithbury,70516,Urbana,Comercial,Torre_59
+52,Perú,New Hampshire,Mendezfort,82342,Urbana,Residencial,Torre_23
+53,Perú,Michigan,Greenefurt,00578,Urbana,Residencial,Torre_66
+54,Perú,North Dakota,Brownburgh,24040,Urbana,Residencial,Torre_64
+55,Perú,Nebraska,Port Maria,54364,Rural,Residencial,Torre_11
+56,Perú,New York,New Cindyburgh,84661,Urbana,Residencial,Torre_76
+57,Perú,Michigan,Perezberg,53595,Rural,Residencial,Torre_7
+58,Perú,Louisiana,Andrewmouth,45741,Rural,Comercial,Torre_73
+59,Perú,North Dakota,Timothystad,04874,Urbana,Residencial,Torre_46
+60,Perú,Maryland,West Ashley,08039,Rural,Comercial,Torre_41
+61,Perú,New Hampshire,South Heatherview,97780,Urbana,Comercial,Torre_100
+62,Perú,Ohio,West Alexis,80397,Urbana,Residencial,Torre_63
+63,Perú,Michigan,Cindybury,21294,Rural,Comercial,Torre_68
+64,Perú,Montana,East Melissafurt,46908,Rural,Comercial,Torre_47
+65,Perú,Texas,Port Jon,23971,Urbana,Comercial,Torre_69
+66,Perú,Michigan,Port David,60433,Urbana,Comercial,Torre_69
+67,Perú,Montana,Cunninghamfort,38610,Rural,Residencial,Torre_85
+68,Perú,Wisconsin,Patriciafort,81217,Urbana,Residencial,Torre_34
+69,Perú,Louisiana,North Julie,63810,Rural,Comercial,Torre_66
+70,Perú,Vermont,Sandovalchester,86044,Rural,Residencial,Torre_17
+71,Perú,Alabama,Kyleberg,93904,Rural,Residencial,Torre_41
+72,Perú,Indiana,Susanview,41492,Urbana,Comercial,Torre_72
+73,Perú,Virginia,Mckinneybury,39617,Urbana,Residencial,Torre_61
+74,Perú,New Jersey,Mortonborough,86049,Urbana,Comercial,Torre_81
+75,Perú,Wisconsin,South Kathryn,13765,Urbana,Residencial,Torre_30
+76,Perú,Maryland,Johnsonchester,48122,Rural,Comercial,Torre_89
+77,Perú,Montana,New Kelly,23219,Rural,Residencial,Torre_73
+78,Perú,Nevada,Garciaview,65261,Rural,Comercial,Torre_65
+79,Perú,West Virginia,East Karen,05301,Rural,Residencial,Torre_81
+80,Perú,West Virginia,Davidstad,92440,Rural,Comercial,Torre_33
+81,Perú,Utah,Port Barbara,60507,Urbana,Residencial,Torre_94
+82,Perú,Florida,North Daniel,57080,Rural,Residencial,Torre_22
+83,Perú,Idaho,Baileyport,35610,Rural,Residencial,Torre_29
+84,Perú,New Mexico,North Joshua,48892,Rural,Residencial,Torre_93
+85,Perú,Illinois,Danielview,25997,Urbana,Residencial,Torre_95
+86,Perú,Hawaii,Jenniferside,01428,Urbana,Comercial,Torre_34
+87,Perú,South Carolina,Melissaside,49393,Rural,Residencial,Torre_59
+88,Perú,Illinois,North Matthewchester,32859,Rural,Comercial,Torre_62
+89,Perú,California,Nortonshire,80436,Rural,Residencial,Torre_62
+90,Perú,Louisiana,North Ronald,69808,Rural,Residencial,Torre_70
+91,Perú,North Carolina,New Valerieview,15639,Rural,Residencial,Torre_11
+92,Perú,North Carolina,Pamelaberg,27483,Rural,Residencial,Torre_42
+93,Perú,Hawaii,North Davidstad,50715,Urbana,Comercial,Torre_70
+94,Perú,Pennsylvania,West Lisahaven,40861,Urbana,Comercial,Torre_27
+95,Perú,Idaho,Ryanville,22818,Rural,Comercial,Torre_90
+96,Perú,Texas,New Angelaborough,04403,Urbana,Residencial,Torre_97
+97,Perú,New York,Dawnfurt,55451,Rural,Comercial,Torre_1
+98,Perú,Delaware,North Natalie,81104,Rural,Comercial,Torre_91
+99,Perú,New Mexico,North Danaborough,49361,Rural,Residencial,Torre_26
+100,Perú,Kansas,Hudsonville,81311,Rural,Residencial,Torre_97
+101,Perú,Nevada,Clarkland,60554,Urbana,Residencial,Torre_71
+102,Perú,Idaho,Lake Kariberg,23833,Urbana,Residencial,Torre_15
+103,Perú,Delaware,Joeburgh,76374,Urbana,Residencial,Torre_98
+104,Perú,Arkansas,Port Paul,53792,Rural,Comercial,Torre_3
+105,Perú,North Dakota,Port James,39287,Rural,Residencial,Torre_72
+106,Perú,Arizona,Robertborough,26093,Urbana,Comercial,Torre_86
+107,Perú,Vermont,Port Karenstad,73995,Urbana,Comercial,Torre_90
+108,Perú,West Virginia,Wendyhaven,87071,Urbana,Residencial,Torre_36
+109,Perú,Colorado,South Beth,35577,Urbana,Residencial,Torre_75
+110,Perú,West Virginia,New Rebeccaville,45667,Rural,Residencial,Torre_91
+111,Perú,Washington,Ryanville,84140,Rural,Residencial,Torre_71
+112,Perú,Connecticut,North Markville,80089,Urbana,Comercial,Torre_61
+113,Perú,Pennsylvania,Tammyville,41462,Urbana,Comercial,Torre_9
+114,Perú,Florida,Port Kristin,49764,Rural,Comercial,Torre_75
+115,Perú,Georgia,North Peterberg,79253,Urbana,Comercial,Torre_100
+116,Perú,Oregon,Jeffreybury,79281,Urbana,Residencial,Torre_7
+117,Perú,Indiana,North Jennifer,92419,Urbana,Comercial,Torre_79
+118,Perú,Tennessee,South Thomasside,94636,Rural,Comercial,Torre_20
+119,Perú,Minnesota,South Misty,76766,Rural,Comercial,Torre_61
+120,Perú,Mississippi,New Lisa,55441,Rural,Residencial,Torre_81
+121,Perú,Connecticut,Greggport,94796,Rural,Residencial,Torre_75
+122,Perú,Connecticut,South Shannonfort,15309,Urbana,Residencial,Torre_23
+123,Perú,Missouri,Kristiborough,49997,Urbana,Comercial,Torre_53
+124,Perú,New York,Caldwellborough,27393,Urbana,Comercial,Torre_43
+125,Perú,Florida,Bellview,05216,Rural,Comercial,Torre_75
+126,Perú,Michigan,Jacksonside,91089,Rural,Comercial,Torre_15
+127,Perú,Oregon,Rodriguezbury,27830,Urbana,Comercial,Torre_44
+128,Perú,North Dakota,Evelynshire,64795,Rural,Residencial,Torre_99
+129,Perú,Indiana,Adrianmouth,86772,Rural,Comercial,Torre_82
+130,Perú,Rhode Island,South Jeffrey,97068,Rural,Comercial,Torre_35
+131,Perú,Iowa,Andrewton,44710,Urbana,Residencial,Torre_48
+132,Perú,Wisconsin,Penningtontown,67053,Rural,Comercial,Torre_91
+133,Perú,Rhode Island,Lake Brandonchester,30400,Urbana,Residencial,Torre_94
+134,Perú,Oregon,Shawntown,73476,Urbana,Residencial,Torre_1
+135,Perú,New Hampshire,Rodriguezview,98582,Rural,Comercial,Torre_39
+136,Perú,Rhode Island,Port Matthewton,33233,Urbana,Residencial,Torre_62
+137,Perú,Maine,Desireeville,64862,Urbana,Comercial,Torre_52
+138,Perú,Connecticut,Lake Aliciaville,99294,Rural,Comercial,Torre_33
+139,Perú,Florida,East Brittanychester,94000,Rural,Residencial,Torre_56
+140,Perú,Nebraska,Craigburgh,97729,Rural,Comercial,Torre_91
+141,Perú,Connecticut,Port Ericbury,62988,Rural,Comercial,Torre_78
+142,Perú,West Virginia,South Samantha,33218,Rural,Comercial,Torre_11
+143,Perú,Illinois,Ricardoton,14865,Rural,Residencial,Torre_34
+144,Perú,Virginia,Rosalesbury,18014,Urbana,Residencial,Torre_80
+145,Perú,Florida,South Hannah,20141,Urbana,Comercial,Torre_48
+146,Perú,Idaho,Jonesbury,96631,Urbana,Residencial,Torre_7
+147,Perú,Vermont,East Ryanfort,36068,Rural,Comercial,Torre_38
+148,Perú,Louisiana,Scottborough,42054,Rural,Comercial,Torre_11
+149,Perú,Louisiana,New Wandafurt,17373,Urbana,Residencial,Torre_25
+150,Perú,Utah,Lake Trevor,05994,Rural,Residencial,Torre_69
+151,Perú,Massachusetts,North Natalie,75168,Rural,Residencial,Torre_2
+152,Perú,Hawaii,Aguilarmouth,90021,Rural,Comercial,Torre_29
+153,Perú,New Hampshire,Riveraside,75910,Urbana,Residencial,Torre_30
+154,Perú,Virginia,Port Caleb,93566,Rural,Residencial,Torre_30
+155,Perú,Michigan,West Sandy,66249,Urbana,Comercial,Torre_46
+156,Perú,Ohio,Johnhaven,49703,Urbana,Comercial,Torre_40
+157,Perú,Connecticut,Nelsonfurt,22256,Rural,Comercial,Torre_53
+158,Perú,Wisconsin,Juliaborough,49705,Urbana,Residencial,Torre_6
+159,Perú,Colorado,West Kevinville,61393,Urbana,Residencial,Torre_52
+160,Perú,Montana,South Sherri,05782,Urbana,Comercial,Torre_8
+161,Perú,Alabama,West Jason,34170,Rural,Comercial,Torre_41
+162,Perú,Arkansas,Camachobury,61829,Rural,Residencial,Torre_72
+163,Perú,Illinois,Alexandrastad,48833,Rural,Comercial,Torre_53
+164,Perú,Michigan,Royshire,83093,Rural,Residencial,Torre_84
+165,Perú,Nevada,Gonzalesville,40573,Rural,Residencial,Torre_77
+166,Perú,Kansas,Lake David,51653,Urbana,Comercial,Torre_98
+167,Perú,Michigan,Josephfurt,80748,Rural,Residencial,Torre_18
+168,Perú,Nevada,Gonzalezburgh,57141,Urbana,Residencial,Torre_76
+169,Perú,Pennsylvania,South Ronaldchester,68951,Urbana,Residencial,Torre_7
+170,Perú,Delaware,Williamsfort,08966,Urbana,Comercial,Torre_88
+171,Perú,Michigan,North Austinside,55505,Urbana,Comercial,Torre_18
+172,Perú,California,East Rachel,61993,Rural,Residencial,Torre_44
+173,Perú,New Mexico,Ronaldhaven,98028,Urbana,Residencial,Torre_46
+174,Perú,Rhode Island,Sarahfort,40387,Urbana,Comercial,Torre_3
+175,Perú,New York,Lake Charles,33071,Urbana,Comercial,Torre_13
+176,Perú,Maryland,New James,02885,Rural,Comercial,Torre_66
+177,Perú,Kansas,North Patty,55040,Urbana,Comercial,Torre_65
+178,Perú,Missouri,South Joshuahaven,38983,Urbana,Comercial,Torre_13
+179,Perú,Virginia,South Stevenburgh,80271,Urbana,Comercial,Torre_65
+180,Perú,Arkansas,East Desireetown,59169,Rural,Comercial,Torre_14
+181,Perú,Minnesota,Gomezmouth,75549,Urbana,Comercial,Torre_26
+182,Perú,Michigan,Lake Nancyhaven,78084,Urbana,Comercial,Torre_19
+183,Perú,Hawaii,West Vanessa,63737,Rural,Residencial,Torre_16
+184,Perú,Colorado,South Michelefort,51122,Rural,Comercial,Torre_76
+185,Perú,Oklahoma,Port Javier,90606,Urbana,Comercial,Torre_31
+186,Perú,Louisiana,Port Amyville,43983,Urbana,Comercial,Torre_93
+187,Perú,New Jersey,Lake Kayla,95780,Urbana,Residencial,Torre_19
+188,Perú,Alabama,Morrisbury,46384,Urbana,Residencial,Torre_68
+189,Perú,South Carolina,West Susanview,79766,Urbana,Comercial,Torre_49
+190,Perú,South Dakota,Lake Susanshire,17209,Urbana,Residencial,Torre_82
+191,Perú,Hawaii,North Stephen,45718,Urbana,Residencial,Torre_54
+192,Perú,Georgia,South Michaelchester,40854,Rural,Comercial,Torre_31
+193,Perú,West Virginia,North Jennifer,76047,Rural,Comercial,Torre_18
+194,Perú,Oklahoma,Port Ethan,60906,Rural,Comercial,Torre_77
+195,Perú,Oregon,West Cassie,19207,Rural,Comercial,Torre_43
+196,Perú,Michigan,North Jerryshire,68367,Rural,Residencial,Torre_37
+197,Perú,Utah,Lisamouth,27350,Urbana,Residencial,Torre_83
+198,Perú,West Virginia,Joshuamouth,40760,Rural,Comercial,Torre_35
+199,Perú,New Jersey,Tinaland,11659,Rural,Residencial,Torre_75
+200,Perú,Vermont,Herreraville,60461,Rural,Comercial,Torre_63
+201,Perú,California,East Matthew,18844,Rural,Residencial,Torre_71
+202,Perú,Missouri,New John,33446,Urbana,Comercial,Torre_14
+203,Perú,Louisiana,Courtneyview,15784,Rural,Residencial,Torre_16
+204,Perú,New Jersey,New Lindaland,22051,Urbana,Residencial,Torre_46
+205,Perú,Maine,Stanleyville,47611,Urbana,Residencial,Torre_45
+206,Perú,Alaska,Stevensland,67701,Urbana,Residencial,Torre_21
+207,Perú,Montana,Lake Stanleyberg,92739,Rural,Comercial,Torre_21
+208,Perú,Alaska,Navarrochester,63077,Urbana,Residencial,Torre_55
+209,Perú,New Jersey,West Ronaldport,76347,Rural,Residencial,Torre_98
+210,Perú,Delaware,North Terri,05825,Rural,Residencial,Torre_22
+211,Perú,Florida,Paynemouth,72924,Rural,Comercial,Torre_94
+212,Perú,Maryland,New Elizabeth,79096,Rural,Comercial,Torre_28
+213,Perú,Michigan,Port Jeffreyhaven,24590,Urbana,Residencial,Torre_43
+214,Perú,Maryland,Taylorside,89117,Rural,Comercial,Torre_58
+215,Perú,Rhode Island,Lake Jamesport,94409,Rural,Residencial,Torre_10
+216,Perú,Georgia,West Brian,55466,Urbana,Residencial,Torre_75
+217,Perú,New York,Heatherport,83529,Rural,Residencial,Torre_44
+218,Perú,New Hampshire,Andersonborough,26847,Urbana,Comercial,Torre_41
+219,Perú,Alabama,Marissamouth,35659,Urbana,Residencial,Torre_51
+220,Perú,Rhode Island,Aaronchester,01718,Rural,Comercial,Torre_40
+221,Perú,Massachusetts,Piercetown,83305,Rural,Residencial,Torre_84
+222,Perú,Georgia,Lake Dakota,78004,Urbana,Comercial,Torre_18
+223,Perú,Nebraska,Hallview,46444,Rural,Residencial,Torre_81
+224,Perú,Alaska,Masonshire,00629,Rural,Residencial,Torre_33
+225,Perú,Maryland,Lake Christopher,87118,Rural,Residencial,Torre_49
+226,Perú,Idaho,Lake Bobby,84315,Rural,Residencial,Torre_3
+227,Perú,Oregon,Baxterfurt,42280,Rural,Residencial,Torre_11
+228,Perú,Hawaii,Markborough,43597,Rural,Residencial,Torre_70
+229,Perú,Colorado,New Brenda,13454,Urbana,Residencial,Torre_4
+230,Perú,Nebraska,Port Travisbury,84771,Urbana,Comercial,Torre_67
+231,Perú,Wisconsin,West Ethan,25677,Urbana,Comercial,Torre_63
+232,Perú,North Carolina,South Jesse,12286,Urbana,Comercial,Torre_16
+233,Perú,New Hampshire,East Randychester,71791,Urbana,Residencial,Torre_58
+234,Perú,Ohio,East Christinaport,50624,Rural,Comercial,Torre_3
+235,Perú,Tennessee,New Jamesfort,05987,Urbana,Residencial,Torre_97
+236,Perú,Wyoming,Rodriguezstad,51297,Urbana,Residencial,Torre_95
+237,Perú,Florida,Lake Stephenbury,93918,Rural,Residencial,Torre_79
+238,Perú,Nebraska,Port Craigmouth,76272,Rural,Comercial,Torre_62
+239,Perú,Michigan,West Keith,38194,Urbana,Comercial,Torre_74
+240,Perú,Florida,Port Aaronchester,32726,Rural,Comercial,Torre_48
+241,Perú,Vermont,South James,17042,Urbana,Comercial,Torre_9
+242,Perú,Oklahoma,Stoneburgh,73604,Urbana,Residencial,Torre_18
+243,Perú,Mississippi,North Alicia,13494,Rural,Residencial,Torre_34
+244,Perú,Pennsylvania,Port Robertmouth,45873,Urbana,Comercial,Torre_52
+245,Perú,Hawaii,North Ashley,73619,Urbana,Residencial,Torre_17
+246,Perú,Colorado,Stanleyborough,27954,Rural,Comercial,Torre_65
+247,Perú,Colorado,Byrdchester,90867,Rural,Comercial,Torre_98
+248,Perú,Kansas,East Johnport,25317,Urbana,Residencial,Torre_95
+249,Perú,Delaware,Meganchester,86421,Rural,Comercial,Torre_96
+250,Perú,Illinois,Lake Taraland,98980,Rural,Comercial,Torre_37
+251,Perú,New Mexico,Cartermouth,98290,Rural,Residencial,Torre_53
+252,Perú,Virginia,Sharonland,68600,Rural,Comercial,Torre_9
+253,Perú,Tennessee,Jasonchester,54518,Urbana,Residencial,Torre_24
+254,Perú,Illinois,Bellberg,85356,Urbana,Residencial,Torre_97
+255,Perú,Alaska,Onealland,21737,Urbana,Residencial,Torre_21
+256,Perú,Missouri,Deborahborough,57786,Rural,Residencial,Torre_83
+257,Perú,Michigan,Lake Alicia,99306,Urbana,Residencial,Torre_100
+258,Perú,Kentucky,East Jessicaside,83528,Urbana,Residencial,Torre_41
+259,Perú,Minnesota,Drakefort,03046,Rural,Comercial,Torre_23
+260,Perú,Pennsylvania,Howardchester,36511,Urbana,Residencial,Torre_93
+261,Perú,Kentucky,Kevinton,33398,Rural,Residencial,Torre_43
+262,Perú,New Hampshire,North Johnland,11676,Urbana,Comercial,Torre_62
+263,Perú,North Dakota,South Terryborough,00801,Rural,Residencial,Torre_59
+264,Perú,West Virginia,West Shelbyburgh,59755,Rural,Comercial,Torre_36
+265,Perú,Arizona,Obrienland,39163,Urbana,Residencial,Torre_66
+266,Perú,Maryland,West Stephaniemouth,36709,Urbana,Comercial,Torre_11
+267,Perú,New Hampshire,Port Jay,48532,Rural,Residencial,Torre_99
+268,Perú,Nevada,New Dominique,05827,Rural,Residencial,Torre_12
+269,Perú,Iowa,Port Shanemouth,55404,Urbana,Comercial,Torre_21
+270,Perú,Wisconsin,Lake Charles,04772,Urbana,Comercial,Torre_16
+271,Perú,West Virginia,North Danafurt,81725,Rural,Residencial,Torre_89
+272,Perú,West Virginia,Kristenfort,06051,Urbana,Comercial,Torre_14
+273,Perú,New Mexico,Laurenville,26351,Urbana,Residencial,Torre_6
+274,Perú,Alabama,North Mitchell,80138,Rural,Comercial,Torre_91
+275,Perú,North Dakota,Cristinaborough,00727,Rural,Comercial,Torre_93
+276,Perú,Rhode Island,New Zachary,19497,Urbana,Residencial,Torre_52
+277,Perú,Washington,Alexandraburgh,11787,Rural,Residencial,Torre_14
+278,Perú,Montana,West Carlos,26888,Urbana,Comercial,Torre_14
+279,Perú,Virginia,Robertchester,67495,Rural,Comercial,Torre_16
+280,Perú,Michigan,Alyssaville,84723,Rural,Residencial,Torre_65
+281,Perú,Indiana,Susanville,52335,Urbana,Residencial,Torre_97
+282,Perú,Oregon,Port Brandon,53874,Rural,Comercial,Torre_40
+283,Perú,Minnesota,New Josephshire,91820,Rural,Residencial,Torre_27
+284,Perú,Maine,Joeltown,41898,Urbana,Residencial,Torre_78
+285,Perú,Hawaii,North Andrewmouth,14671,Urbana,Residencial,Torre_48
+286,Perú,Idaho,Lake Jillland,13695,Urbana,Residencial,Torre_47
+287,Perú,Washington,Jonathanton,84687,Rural,Residencial,Torre_43
+288,Perú,Virginia,South Jesusview,32211,Urbana,Comercial,Torre_42
+289,Perú,Louisiana,East Amystad,41882,Rural,Residencial,Torre_25
+290,Perú,Illinois,Samanthaview,11481,Urbana,Residencial,Torre_31
+291,Perú,Delaware,Brianchester,82596,Rural,Comercial,Torre_39
+292,Perú,Minnesota,Shellystad,24015,Rural,Comercial,Torre_83
+293,Perú,West Virginia,Mindytown,24022,Rural,Residencial,Torre_36
+294,Perú,Missouri,South Matthew,70309,Urbana,Residencial,Torre_86
+295,Perú,Georgia,North Roger,31357,Urbana,Comercial,Torre_73
+296,Perú,Maryland,East Gregorybury,92862,Rural,Residencial,Torre_69
+297,Perú,Kentucky,West Stephaniehaven,64181,Urbana,Comercial,Torre_48
+298,Perú,Virginia,Brownstad,69306,Rural,Comercial,Torre_82
+299,Perú,South Carolina,South Brittany,80562,Rural,Residencial,Torre_74
+300,Perú,Hawaii,South William,79506,Urbana,Comercial,Torre_81
+301,Perú,Montana,Faulknerborough,12778,Urbana,Residencial,Torre_95
+302,Perú,Alaska,Theresamouth,57128,Urbana,Comercial,Torre_88
+303,Perú,Texas,Jennifertown,74541,Rural,Residencial,Torre_83
+304,Perú,California,Goodwinville,67779,Rural,Comercial,Torre_7
+305,Perú,Idaho,Paulstad,30865,Urbana,Comercial,Torre_65
+306,Perú,Missouri,East Melissa,67222,Rural,Residencial,Torre_62
+307,Perú,Nebraska,Savannahfurt,94412,Rural,Residencial,Torre_89
+308,Perú,Colorado,Jenniferborough,44356,Urbana,Residencial,Torre_66
+309,Perú,California,North Lauren,36051,Rural,Residencial,Torre_87
+310,Perú,Utah,East James,67986,Urbana,Comercial,Torre_24
+311,Perú,Oregon,Lindseyfurt,50549,Rural,Comercial,Torre_82
+312,Perú,Kansas,Port Daleside,58686,Urbana,Residencial,Torre_43
+313,Perú,Ohio,West Ericstad,14836,Rural,Residencial,Torre_47
+314,Perú,California,Perryport,74706,Rural,Comercial,Torre_71
+315,Perú,Indiana,Tammychester,00522,Urbana,Comercial,Torre_99
+316,Perú,Massachusetts,South Erica,85927,Urbana,Residencial,Torre_95
+317,Perú,West Virginia,Taylorside,99372,Rural,Comercial,Torre_38
+318,Perú,New Hampshire,Logantown,54090,Rural,Residencial,Torre_41
+319,Perú,Oklahoma,Lake Michael,11081,Rural,Comercial,Torre_52
+320,Perú,Virginia,North Jennifer,45672,Urbana,Comercial,Torre_13
+321,Perú,Rhode Island,Michaelton,39091,Rural,Residencial,Torre_1
+322,Perú,Connecticut,Lake Samuelside,71946,Rural,Comercial,Torre_81
+323,Perú,Wyoming,North Spencer,97511,Urbana,Comercial,Torre_43
+324,Perú,Hawaii,East Charlesborough,08055,Urbana,Residencial,Torre_70
+325,Perú,Hawaii,West Nathan,06655,Urbana,Residencial,Torre_95
+326,Perú,Wyoming,Heathertown,49217,Urbana,Comercial,Torre_72
+327,Perú,Rhode Island,Christinastad,24432,Urbana,Comercial,Torre_21
+328,Perú,Pennsylvania,South Christian,13454,Rural,Comercial,Torre_51
+329,Perú,Rhode Island,Knappberg,32879,Urbana,Comercial,Torre_63
+330,Perú,Arkansas,Alvarezside,47540,Rural,Residencial,Torre_13
+331,Perú,New Hampshire,Alexandertown,68554,Urbana,Comercial,Torre_15
+332,Perú,Wyoming,South Toddtown,05056,Rural,Comercial,Torre_33
+333,Perú,Kentucky,New Brian,99110,Urbana,Comercial,Torre_37
+334,Perú,Indiana,South Coryberg,43975,Rural,Comercial,Torre_69
+335,Perú,Ohio,Andrewsport,72344,Urbana,Comercial,Torre_76
+336,Perú,Arkansas,Smithside,31448,Urbana,Comercial,Torre_89
+337,Perú,New York,New Jayburgh,75531,Rural,Comercial,Torre_37
+338,Perú,California,South Tonya,29836,Urbana,Residencial,Torre_67
+339,Perú,Alaska,Leehaven,42037,Rural,Comercial,Torre_66
+340,Perú,Tennessee,New Thomasfort,12227,Rural,Residencial,Torre_44
+341,Perú,Arkansas,Adamsmouth,89041,Urbana,Comercial,Torre_3
+342,Perú,Rhode Island,Christinaside,99358,Rural,Comercial,Torre_25
+343,Perú,Illinois,Port Georgeton,11083,Rural,Comercial,Torre_25
+344,Perú,Hawaii,Washingtonfort,07671,Rural,Residencial,Torre_21
+345,Perú,New York,Rogerton,13457,Rural,Residencial,Torre_32
+346,Perú,Wisconsin,Lake Sarahmouth,42606,Urbana,Comercial,Torre_7
+347,Perú,Texas,Tuckershire,66018,Rural,Comercial,Torre_43
+348,Perú,Illinois,New Courtneyborough,51664,Rural,Comercial,Torre_100
+349,Perú,North Dakota,Natalieberg,82835,Urbana,Comercial,Torre_11
+350,Perú,Maine,Amandaburgh,90838,Urbana,Residencial,Torre_34
+351,Perú,Oregon,Harrellville,53443,Urbana,Residencial,Torre_61
+352,Perú,West Virginia,Patrickland,65722,Urbana,Residencial,Torre_43
+353,Perú,Oregon,Loriberg,45380,Rural,Residencial,Torre_94
+354,Perú,Colorado,Stokesfort,47560,Rural,Comercial,Torre_72
+355,Perú,Georgia,West Robertstad,83200,Urbana,Comercial,Torre_90
+356,Perú,Mississippi,Kellychester,06587,Urbana,Comercial,Torre_32
+357,Perú,Ohio,Adrianmouth,17796,Rural,Residencial,Torre_87
+358,Perú,Alabama,Jasonmouth,59268,Urbana,Residencial,Torre_91
+359,Perú,South Carolina,South Michellechester,12706,Rural,Residencial,Torre_24
+360,Perú,Michigan,New Ronald,71682,Rural,Comercial,Torre_42
+361,Perú,Tennessee,Lake Crystal,45241,Urbana,Comercial,Torre_23
+362,Perú,Maryland,Florestown,18397,Urbana,Residencial,Torre_22
+363,Perú,Ohio,Lake Kenneth,54662,Rural,Residencial,Torre_74
+364,Perú,Iowa,West Sarah,45347,Rural,Residencial,Torre_32
+365,Perú,Pennsylvania,East Joe,04598,Rural,Residencial,Torre_27
+366,Perú,Maryland,Walshport,58714,Rural,Comercial,Torre_11
+367,Perú,Alabama,East Deborah,53870,Rural,Comercial,Torre_31
+368,Perú,Oregon,Smithberg,80586,Urbana,Residencial,Torre_20
+369,Perú,Nebraska,Davidsonland,23112,Urbana,Residencial,Torre_56
+370,Perú,Minnesota,West Meganview,47227,Rural,Residencial,Torre_91
+371,Perú,California,New Stacey,61659,Rural,Comercial,Torre_18
+372,Perú,Michigan,Lake Melanie,61461,Urbana,Residencial,Torre_8
+373,Perú,Louisiana,Kevinburgh,31879,Urbana,Residencial,Torre_88
+374,Perú,Wyoming,Richardport,47056,Urbana,Residencial,Torre_97
+375,Perú,Minnesota,Shannonchester,76641,Urbana,Residencial,Torre_60
+376,Perú,Connecticut,New Shawn,82072,Urbana,Residencial,Torre_97
+377,Perú,Maryland,Kathychester,02199,Rural,Residencial,Torre_88
+378,Perú,Oregon,Brownfort,89128,Rural,Comercial,Torre_67
+379,Perú,Georgia,Conniemouth,76263,Rural,Comercial,Torre_29
+380,Perú,Minnesota,Diazmouth,29325,Urbana,Residencial,Torre_78
+381,Perú,Arizona,North Marieside,71778,Rural,Residencial,Torre_24
+382,Perú,Washington,Debraport,10475,Rural,Comercial,Torre_94
+383,Perú,Alabama,Richardmouth,32786,Rural,Comercial,Torre_91
+384,Perú,Tennessee,West Erikachester,12267,Rural,Residencial,Torre_99
+385,Perú,Rhode Island,South Ambertown,80115,Rural,Residencial,Torre_71
+386,Perú,Montana,Kimtown,23849,Rural,Comercial,Torre_49
+387,Perú,Alabama,Duffychester,55120,Rural,Residencial,Torre_17
+388,Perú,Nevada,Lake Jennifer,58309,Rural,Residencial,Torre_85
+389,Perú,Iowa,Zacharyside,32010,Urbana,Residencial,Torre_28
+390,Perú,Nevada,New Amanda,88890,Rural,Comercial,Torre_72
+391,Perú,Oregon,Lake Danny,39978,Urbana,Comercial,Torre_60
+392,Perú,New Jersey,Wilsonton,80987,Rural,Comercial,Torre_69
+393,Perú,Maine,Lucaston,88494,Rural,Comercial,Torre_28
+394,Perú,Alabama,Jenningsberg,80937,Rural,Residencial,Torre_69
+395,Perú,Idaho,New Denisechester,14622,Urbana,Comercial,Torre_59
+396,Perú,Vermont,Timothyside,01107,Urbana,Comercial,Torre_93
+397,Perú,Oregon,West Fernando,65144,Urbana,Comercial,Torre_42
+398,Perú,New Jersey,South Jodi,83904,Urbana,Residencial,Torre_87
+399,Perú,Ohio,Port Joseph,08178,Rural,Comercial,Torre_27
+400,Perú,California,Jacobshire,02565,Rural,Comercial,Torre_86
+401,Perú,Tennessee,Edwardfurt,20909,Urbana,Residencial,Torre_97
+402,Perú,Wyoming,Port Jamie,91321,Urbana,Residencial,Torre_18
+403,Perú,Alabama,Port Patrick,85061,Rural,Residencial,Torre_22
+404,Perú,Texas,South Hannah,98002,Urbana,Residencial,Torre_72
+405,Perú,Arizona,Lake Codyport,07344,Rural,Residencial,Torre_32
+406,Perú,Colorado,North Brian,93403,Urbana,Residencial,Torre_10
+407,Perú,Florida,South Kellyfort,63249,Urbana,Residencial,Torre_35
+408,Perú,Montana,Hillside,18099,Rural,Residencial,Torre_99
+409,Perú,Missouri,Amandaville,25943,Urbana,Comercial,Torre_42
+410,Perú,Rhode Island,Vanessastad,57381,Urbana,Residencial,Torre_58
+411,Perú,Idaho,New Tiffanyberg,19754,Urbana,Residencial,Torre_46
+412,Perú,Washington,Bishopshire,84064,Rural,Residencial,Torre_87
+413,Perú,Iowa,Roseview,05693,Urbana,Residencial,Torre_33
+414,Perú,Tennessee,Lake Derrick,27310,Rural,Comercial,Torre_90
+415,Perú,Oklahoma,East Claytonton,22092,Urbana,Comercial,Torre_13
+416,Perú,Connecticut,Lake William,73889,Urbana,Residencial,Torre_8
+417,Perú,Alaska,Jessicaside,94291,Urbana,Comercial,Torre_16
+418,Perú,Arizona,Stephanieville,03401,Rural,Comercial,Torre_31
+419,Perú,Montana,Johnsonborough,27849,Rural,Comercial,Torre_12
+420,Perú,Montana,Smithchester,09310,Urbana,Comercial,Torre_9
+421,Perú,Maine,North Tiffany,20703,Urbana,Comercial,Torre_36
+422,Perú,Hawaii,Robertport,71018,Urbana,Residencial,Torre_77
+423,Perú,Missouri,South Steven,01104,Urbana,Residencial,Torre_77
+424,Perú,Alaska,Abigailfort,26605,Urbana,Residencial,Torre_61
+425,Perú,Texas,Coreytown,53066,Rural,Residencial,Torre_48
+426,Perú,Massachusetts,Katherinemouth,84106,Urbana,Residencial,Torre_44
+427,Perú,South Dakota,New Joshua,96886,Rural,Residencial,Torre_93
+428,Perú,Nebraska,South Henryfort,93113,Urbana,Residencial,Torre_90
+429,Perú,North Dakota,Danaberg,72914,Rural,Residencial,Torre_95
+430,Perú,Illinois,New Chad,87101,Urbana,Residencial,Torre_32
+431,Perú,North Carolina,New Gina,94836,Urbana,Residencial,Torre_11
+432,Perú,Minnesota,South Benjamin,96491,Rural,Comercial,Torre_52
+433,Perú,Rhode Island,Karenchester,63088,Rural,Comercial,Torre_48
+434,Perú,Kansas,Jeremyville,91508,Urbana,Comercial,Torre_23
+435,Perú,Utah,Gibbsfort,82348,Urbana,Residencial,Torre_80
+436,Perú,Arizona,New Carolynshire,01717,Rural,Residencial,Torre_29
+437,Perú,Nebraska,Mccartytown,93689,Urbana,Comercial,Torre_59
+438,Perú,New York,Amandaville,61043,Urbana,Residencial,Torre_27
+439,Perú,North Carolina,Michelleville,69021,Rural,Residencial,Torre_81
+440,Perú,South Dakota,Bobshire,52978,Urbana,Residencial,Torre_2
+441,Perú,Arkansas,Port Lance,36028,Rural,Residencial,Torre_22
+442,Perú,Illinois,West Lynn,03428,Urbana,Residencial,Torre_70
+443,Perú,Michigan,South Maria,58086,Rural,Comercial,Torre_26
+444,Perú,New Jersey,West Sandrashire,92847,Rural,Comercial,Torre_75
+445,Perú,Washington,Harrischester,96179,Urbana,Comercial,Torre_4
+446,Perú,Idaho,Russellfort,23395,Urbana,Residencial,Torre_95
+447,Perú,Oregon,East Timothy,64167,Urbana,Comercial,Torre_75
+448,Perú,Illinois,North Tyler,26462,Rural,Residencial,Torre_25
+449,Perú,Indiana,East Danhaven,10224,Urbana,Comercial,Torre_65
+450,Perú,Arizona,Lake Joy,25919,Rural,Comercial,Torre_39
+451,Perú,Illinois,Port Ronniehaven,61370,Urbana,Residencial,Torre_23
+452,Perú,Delaware,East Nicholasville,04518,Rural,Residencial,Torre_38
+453,Perú,Maine,Atkinshaven,43003,Rural,Residencial,Torre_19
+454,Perú,Wisconsin,Lake Stephen,51151,Rural,Residencial,Torre_66
+455,Perú,Massachusetts,North Jamesville,15915,Urbana,Comercial,Torre_57
+456,Perú,Michigan,New Shellyland,90575,Urbana,Comercial,Torre_26
+457,Perú,Washington,North Sherriburgh,52678,Urbana,Residencial,Torre_71
+458,Perú,Maryland,Sharonshire,24350,Urbana,Comercial,Torre_86
+459,Perú,Georgia,West Vanessa,50950,Urbana,Comercial,Torre_90
+460,Perú,Idaho,Maryshire,80386,Rural,Residencial,Torre_80
+461,Perú,Oregon,West Joshua,95847,Urbana,Residencial,Torre_29
+462,Perú,Washington,Lake Dana,71984,Rural,Residencial,Torre_47
+463,Perú,Nebraska,West Sarah,97474,Urbana,Residencial,Torre_6
+464,Perú,Louisiana,East David,55941,Rural,Comercial,Torre_45
+465,Perú,Arkansas,Wellston,41346,Rural,Comercial,Torre_67
+466,Perú,Missouri,New Kylie,23676,Rural,Comercial,Torre_99
+467,Perú,Delaware,Coreyton,54607,Rural,Comercial,Torre_83
+468,Perú,Wisconsin,Johnsonborough,72830,Urbana,Residencial,Torre_70
+469,Perú,Oregon,Chaseborough,35514,Rural,Residencial,Torre_34
+470,Perú,New York,New Shannonchester,86175,Rural,Comercial,Torre_23
+471,Perú,Hawaii,Clarkland,69188,Rural,Comercial,Torre_54
+472,Perú,Missouri,Travismouth,16280,Rural,Residencial,Torre_28
+473,Perú,Iowa,Lake Antonioville,54995,Urbana,Comercial,Torre_43
+474,Perú,Nebraska,Gonzalesmouth,97381,Urbana,Residencial,Torre_37
+475,Perú,Wisconsin,West Johnbury,96633,Urbana,Residencial,Torre_100
+476,Perú,Missouri,Kristinehaven,12020,Rural,Residencial,Torre_11
+477,Perú,Florida,Karenfurt,46362,Rural,Comercial,Torre_9
+478,Perú,Oklahoma,Heatherbury,84029,Urbana,Comercial,Torre_37
+479,Perú,South Dakota,West Andres,01707,Rural,Residencial,Torre_78
+480,Perú,New Hampshire,North Christopherstad,71476,Rural,Comercial,Torre_75
+481,Perú,South Carolina,New Peterborough,63583,Urbana,Residencial,Torre_14
+482,Perú,Vermont,South Shannon,39387,Rural,Residencial,Torre_96
+483,Perú,Mississippi,New Clayton,96043,Rural,Residencial,Torre_79
+484,Perú,Arizona,Lake David,51636,Urbana,Residencial,Torre_43
+485,Perú,Tennessee,Marthaburgh,75031,Rural,Comercial,Torre_87
+486,Perú,South Carolina,Lake Jordanchester,58386,Urbana,Comercial,Torre_88
+487,Perú,North Dakota,Taraberg,83671,Rural,Residencial,Torre_1
+488,Perú,Iowa,Lake Johnborough,65517,Rural,Residencial,Torre_4
+489,Perú,Indiana,Johnnyton,47125,Urbana,Comercial,Torre_60
+490,Perú,North Carolina,Port Eddiefort,62978,Urbana,Comercial,Torre_7
+491,Perú,Montana,Jasmineland,66779,Rural,Residencial,Torre_61
+492,Perú,New York,Port Jameshaven,66736,Rural,Residencial,Torre_7
+493,Perú,Iowa,East David,32514,Rural,Comercial,Torre_37
+494,Perú,Oregon,South Morgan,04040,Urbana,Residencial,Torre_88
+495,Perú,Washington,Garciastad,48031,Urbana,Residencial,Torre_71
+496,Perú,Colorado,Stephenstown,30617,Urbana,Residencial,Torre_34
+497,Perú,Ohio,Newmanshire,32978,Rural,Comercial,Torre_17
+498,Perú,Delaware,New Jenna,40851,Urbana,Comercial,Torre_42
+499,Perú,Georgia,Mcleanhaven,33737,Urbana,Residencial,Torre_27
+500,Perú,Hawaii,Port Jennifer,56975,Urbana,Residencial,Torre_8
+501,Perú,Maryland,West Jeremy,57793,Urbana,Comercial,Torre_56
+502,Perú,Alaska,Liton,36911,Urbana,Comercial,Torre_54
+503,Perú,Massachusetts,Dicksonmouth,37442,Urbana,Comercial,Torre_9
+504,Perú,Delaware,New Manuelmouth,17106,Rural,Residencial,Torre_27
+505,Perú,Florida,North Mark,03725,Rural,Comercial,Torre_33
+506,Perú,South Carolina,Farmerside,32225,Urbana,Residencial,Torre_71
+507,Perú,South Dakota,Blackburnport,18230,Urbana,Residencial,Torre_39
+508,Perú,North Dakota,East Elizabeth,80730,Urbana,Residencial,Torre_30
+509,Perú,South Carolina,Wilsonborough,65702,Rural,Residencial,Torre_100
+510,Perú,Idaho,Robertsport,27301,Urbana,Residencial,Torre_11
+511,Perú,Ohio,Adrianstad,74201,Rural,Residencial,Torre_74
+512,Perú,Nebraska,Elizabethtown,72972,Urbana,Comercial,Torre_92
+513,Perú,Kentucky,South Nicoleton,87503,Rural,Comercial,Torre_70
+514,Perú,Alabama,North Brian,65381,Urbana,Comercial,Torre_20
+515,Perú,Wisconsin,Larryland,66034,Urbana,Residencial,Torre_70
+516,Perú,Mississippi,Port Christopherbury,07672,Urbana,Residencial,Torre_21
+517,Perú,Florida,Port Marymouth,80701,Urbana,Comercial,Torre_60
+518,Perú,Arizona,Cassandramouth,86765,Urbana,Comercial,Torre_82
+519,Perú,North Carolina,New Mariafort,72726,Urbana,Residencial,Torre_29
+520,Perú,Indiana,Robertstown,62326,Rural,Comercial,Torre_73
+521,Perú,Virginia,West Michael,06316,Urbana,Comercial,Torre_7
+522,Perú,New Hampshire,Georgeborough,02810,Urbana,Comercial,Torre_87
+523,Perú,Texas,Browntown,91923,Urbana,Residencial,Torre_54
+524,Perú,South Carolina,Oliviaside,95213,Urbana,Residencial,Torre_16
+525,Perú,Louisiana,Port Kent,81407,Urbana,Residencial,Torre_81
+526,Perú,Wyoming,Lake Richardview,13689,Urbana,Residencial,Torre_2
+527,Perú,Nebraska,North Bill,90572,Rural,Comercial,Torre_7
+528,Perú,Wyoming,Lake Shaun,30407,Rural,Comercial,Torre_25
+529,Perú,Arkansas,Port Jeffrey,75893,Urbana,Residencial,Torre_45
+530,Perú,Wisconsin,Kennethfurt,10617,Urbana,Comercial,Torre_21
+531,Perú,Kansas,New Thomasview,71166,Urbana,Residencial,Torre_43
+532,Perú,Pennsylvania,Arthurstad,32153,Urbana,Residencial,Torre_65
+533,Perú,Louisiana,Tiffanyshire,20346,Rural,Residencial,Torre_80
+534,Perú,Illinois,Jesusport,56087,Urbana,Residencial,Torre_86
+535,Perú,Michigan,Aliciaport,75017,Urbana,Residencial,Torre_83
+536,Perú,Texas,Nicholefort,86941,Rural,Residencial,Torre_28
+537,Perú,Connecticut,Lake Chaseborough,85717,Urbana,Comercial,Torre_55
+538,Perú,Vermont,Lake Tracie,95422,Urbana,Comercial,Torre_29
+539,Perú,Louisiana,West Michelle,40378,Urbana,Residencial,Torre_21
+540,Perú,New York,Lucaschester,19078,Urbana,Residencial,Torre_94
+541,Perú,Mississippi,Port Amber,83812,Urbana,Residencial,Torre_26
+542,Perú,Maine,Codyborough,86364,Urbana,Residencial,Torre_40
+543,Perú,Arkansas,Collinsshire,28551,Urbana,Residencial,Torre_61
+544,Perú,Kentucky,Port Robynton,34515,Rural,Comercial,Torre_78
+545,Perú,Vermont,Lake Heatherbury,80986,Rural,Residencial,Torre_5
+546,Perú,Connecticut,Santosmouth,75383,Urbana,Comercial,Torre_62
+547,Perú,Minnesota,North Timothyfort,60695,Urbana,Comercial,Torre_7
+548,Perú,Maine,Ibarraton,38975,Rural,Residencial,Torre_25
+549,Perú,Illinois,Amyside,37265,Rural,Residencial,Torre_80
+550,Perú,Michigan,Watsonfort,19810,Rural,Residencial,Torre_52
+551,Perú,Iowa,Lake Amber,90586,Rural,Residencial,Torre_54
+552,Perú,Kansas,South Ashleybury,33933,Rural,Residencial,Torre_12
+553,Perú,Illinois,Lake Austin,30184,Rural,Comercial,Torre_12
+554,Perú,Illinois,South Matthewchester,72216,Rural,Residencial,Torre_70
+555,Perú,Utah,Douglasfurt,93721,Rural,Comercial,Torre_33
+556,Perú,Missouri,Andersonburgh,55137,Urbana,Comercial,Torre_6
+557,Perú,Delaware,North Nathaniel,27556,Urbana,Residencial,Torre_3
+558,Perú,Ohio,Wilsonmouth,32661,Urbana,Residencial,Torre_55
+559,Perú,Kentucky,Carlaport,89320,Urbana,Comercial,Torre_22
+560,Perú,Texas,East Alexandriaview,05720,Urbana,Residencial,Torre_8
+561,Perú,Hawaii,North Stephen,67068,Urbana,Residencial,Torre_65
+562,Perú,Minnesota,Burgessburgh,18315,Urbana,Residencial,Torre_78
+563,Perú,Montana,Wesleytown,36544,Urbana,Residencial,Torre_61
+564,Perú,Alaska,East Michael,77726,Rural,Residencial,Torre_44
+565,Perú,Ohio,West Linda,47692,Rural,Comercial,Torre_64
+566,Perú,Texas,West James,29660,Urbana,Comercial,Torre_42
+567,Perú,Arizona,Lake Nicholasport,35120,Rural,Comercial,Torre_17
+568,Perú,Ohio,Adamston,29199,Rural,Residencial,Torre_61
+569,Perú,Nevada,New Stephanieberg,98128,Rural,Comercial,Torre_56
+570,Perú,Utah,New Aaron,02890,Rural,Residencial,Torre_2
+571,Perú,Delaware,New Lisa,69133,Urbana,Residencial,Torre_12
+572,Perú,Kentucky,Sandraburgh,79598,Urbana,Comercial,Torre_18
+573,Perú,Virginia,New Tom,93531,Rural,Residencial,Torre_87
+574,Perú,Illinois,Lake Tylerport,10352,Rural,Comercial,Torre_71
+575,Perú,North Carolina,Lake Jennifer,65130,Urbana,Residencial,Torre_43
+576,Perú,Maryland,Davidborough,35786,Rural,Residencial,Torre_20
+577,Perú,West Virginia,East Eric,71175,Rural,Comercial,Torre_80
+578,Perú,Colorado,Torresport,28928,Rural,Comercial,Torre_28
+579,Perú,Connecticut,West Jamie,04482,Rural,Residencial,Torre_62
+580,Perú,North Carolina,Mendozaburgh,47278,Urbana,Comercial,Torre_10
+581,Perú,Nevada,Port Russell,50155,Rural,Comercial,Torre_47
+582,Perú,Utah,Victoriastad,55522,Urbana,Residencial,Torre_100
+583,Perú,Oklahoma,Stevenberg,58206,Urbana,Comercial,Torre_1
+584,Perú,Minnesota,Bennettchester,73271,Rural,Comercial,Torre_57
+585,Perú,Idaho,New Brent,49610,Urbana,Residencial,Torre_50
+586,Perú,Georgia,Lake Timothyton,56570,Rural,Comercial,Torre_78
+587,Perú,Delaware,Howellburgh,93387,Rural,Residencial,Torre_57
+588,Perú,Maine,North Candiceburgh,95548,Rural,Residencial,Torre_92
+589,Perú,Washington,Port Anthonymouth,34638,Rural,Comercial,Torre_60
+590,Perú,West Virginia,Lake Kevinfurt,37156,Urbana,Residencial,Torre_26
+591,Perú,Wisconsin,South Richardmouth,71287,Rural,Residencial,Torre_84
+592,Perú,Maine,Lake Samantha,38597,Rural,Comercial,Torre_50
+593,Perú,Idaho,East Misty,88810,Urbana,Comercial,Torre_75
+594,Perú,New York,Colonfurt,44959,Rural,Residencial,Torre_88
+595,Perú,Maine,Madisonside,76143,Rural,Residencial,Torre_30
+596,Perú,Kansas,Port Ashley,38581,Rural,Comercial,Torre_23
+597,Perú,Ohio,Shawnville,00983,Rural,Comercial,Torre_6
+598,Perú,Pennsylvania,Port Kevin,96663,Rural,Comercial,Torre_44
+599,Perú,Vermont,Lake Vincent,00935,Urbana,Residencial,Torre_15
+600,Perú,Kansas,Velazquezmouth,48391,Rural,Comercial,Torre_21
+601,Perú,California,West Trevorville,94571,Urbana,Residencial,Torre_36
+602,Perú,New Mexico,East Elizabeth,16812,Rural,Comercial,Torre_6
+603,Perú,Illinois,Nicolebury,49728,Rural,Comercial,Torre_12
+604,Perú,Minnesota,West Matthew,46919,Urbana,Comercial,Torre_21
+605,Perú,Nevada,Port Stephanie,78607,Rural,Residencial,Torre_81
+606,Perú,Louisiana,New Brandon,65833,Rural,Residencial,Torre_4
+607,Perú,Massachusetts,New Tracy,63390,Urbana,Comercial,Torre_62
+608,Perú,Connecticut,Grantfort,92682,Urbana,Comercial,Torre_26
+609,Perú,Florida,Harrismouth,48480,Rural,Residencial,Torre_98
+610,Perú,New Jersey,Parkbury,73307,Urbana,Comercial,Torre_78
+611,Perú,South Dakota,New Jessicachester,20953,Rural,Residencial,Torre_72
+612,Perú,Minnesota,Leslieville,21208,Urbana,Residencial,Torre_39
+613,Perú,North Carolina,Lake Mary,02876,Rural,Comercial,Torre_52
+614,Perú,Florida,Fergusonton,52259,Urbana,Comercial,Torre_62
+615,Perú,California,Lopezfort,77925,Rural,Comercial,Torre_40
+616,Perú,Wyoming,North John,32620,Rural,Comercial,Torre_70
+617,Perú,New Jersey,New Anthony,14398,Rural,Residencial,Torre_30
+618,Perú,Montana,Kimberlyport,18857,Urbana,Residencial,Torre_52
+619,Perú,Wyoming,Annettemouth,26820,Rural,Residencial,Torre_12
+620,Perú,New Mexico,West Cynthialand,40136,Rural,Residencial,Torre_96
+621,Perú,Massachusetts,Hullmouth,36573,Urbana,Residencial,Torre_44
+622,Perú,South Carolina,Kristenville,61452,Urbana,Residencial,Torre_6
+623,Perú,Maryland,Lake Allenside,78757,Urbana,Comercial,Torre_53
+624,Perú,New Mexico,Leahbury,95197,Rural,Comercial,Torre_94
+625,Perú,Georgia,North Anitaport,34342,Rural,Residencial,Torre_61
+626,Perú,Maine,Cruzmouth,30157,Urbana,Residencial,Torre_68
+627,Perú,Arizona,Brownbury,40156,Rural,Comercial,Torre_97
+628,Perú,Nebraska,Hollymouth,08562,Urbana,Residencial,Torre_4
+629,Perú,Vermont,Kramermouth,68566,Urbana,Comercial,Torre_68
+630,Perú,California,North Christianton,19443,Urbana,Residencial,Torre_65
+631,Perú,New Jersey,Michelleberg,30479,Urbana,Residencial,Torre_97
+632,Perú,Pennsylvania,West Brittanyview,79010,Urbana,Comercial,Torre_42
+633,Perú,Idaho,Lake Zachary,46690,Rural,Residencial,Torre_16
+634,Perú,California,Paulaborough,44354,Rural,Residencial,Torre_23
+635,Perú,Wisconsin,East Christina,86912,Urbana,Residencial,Torre_30
+636,Perú,Delaware,Montoyaberg,75084,Rural,Comercial,Torre_64
+637,Perú,Montana,West Juliefurt,26785,Urbana,Residencial,Torre_47
+638,Perú,Iowa,Erikaport,63850,Rural,Residencial,Torre_89
+639,Perú,Maine,Riveraborough,15783,Urbana,Comercial,Torre_77
+640,Perú,South Dakota,Port Katherinechester,83481,Rural,Residencial,Torre_93
+641,Perú,Connecticut,West Charles,65756,Urbana,Comercial,Torre_99
+642,Perú,Nevada,East Allison,33636,Rural,Comercial,Torre_78
+643,Perú,South Dakota,Collinston,27055,Urbana,Residencial,Torre_77
+644,Perú,Pennsylvania,Riversmouth,52187,Rural,Comercial,Torre_53
+645,Perú,Maine,Lake Warren,54159,Urbana,Residencial,Torre_13
+646,Perú,Ohio,Millerbury,06134,Rural,Comercial,Torre_1
+647,Perú,Alaska,Fieldsside,57459,Rural,Residencial,Torre_24
+648,Perú,Oregon,Angelaton,08516,Urbana,Residencial,Torre_91
+649,Perú,Arkansas,West Cherylberg,50337,Rural,Residencial,Torre_84
+650,Perú,Montana,East Darlene,09765,Urbana,Residencial,Torre_21
+651,Perú,West Virginia,Boyerhaven,61278,Rural,Residencial,Torre_69
+652,Perú,Nebraska,East Elizabeth,27657,Urbana,Residencial,Torre_51
+653,Perú,North Dakota,North Tiffany,84865,Rural,Residencial,Torre_28
+654,Perú,Mississippi,East Brendaland,88450,Rural,Residencial,Torre_67
+655,Perú,Iowa,East Johnborough,43366,Rural,Comercial,Torre_76
+656,Perú,Wyoming,Richardchester,03334,Urbana,Comercial,Torre_22
+657,Perú,Kansas,West Bridgetmouth,19160,Rural,Comercial,Torre_90
+658,Perú,Hawaii,Martinezmouth,58509,Rural,Residencial,Torre_72
+659,Perú,Tennessee,North Wandaport,66640,Rural,Residencial,Torre_88
+660,Perú,Tennessee,Jenniferburgh,96649,Rural,Comercial,Torre_60
+661,Perú,Connecticut,West Stephanieport,60708,Urbana,Comercial,Torre_11
+662,Perú,Delaware,South Diane,89413,Urbana,Comercial,Torre_62
+663,Perú,Ohio,Lake Tina,55598,Rural,Comercial,Torre_63
+664,Perú,Rhode Island,North David,66865,Rural,Residencial,Torre_40
+665,Perú,Georgia,South Brittany,05193,Rural,Residencial,Torre_29
+666,Perú,Maine,Johnshaven,17614,Rural,Residencial,Torre_1
+667,Perú,Minnesota,Port Aaron,20096,Rural,Comercial,Torre_64
+668,Perú,New York,North Timothyborough,29442,Rural,Residencial,Torre_95
+669,Perú,North Carolina,Ashleyland,64813,Urbana,Residencial,Torre_33
+670,Perú,Kansas,Lindaview,99300,Rural,Residencial,Torre_13
+671,Perú,Nevada,Ronaldfurt,10129,Urbana,Residencial,Torre_17
+672,Perú,Wyoming,Lake Justinside,06494,Rural,Comercial,Torre_81
+673,Perú,Georgia,Robertmouth,09474,Rural,Residencial,Torre_18
+674,Perú,Rhode Island,Bushton,70988,Urbana,Residencial,Torre_23
+675,Perú,Rhode Island,South Jenniferville,04240,Urbana,Comercial,Torre_92
+676,Perú,Idaho,East Johnville,00838,Rural,Comercial,Torre_10
+677,Perú,Michigan,Lake James,71965,Urbana,Comercial,Torre_62
+678,Perú,Idaho,Ryanmouth,43065,Rural,Residencial,Torre_60
+679,Perú,Wisconsin,Harveyshire,87468,Rural,Residencial,Torre_37
+680,Perú,Texas,Lewistown,09082,Urbana,Comercial,Torre_100
+681,Perú,Alaska,West Judith,47935,Urbana,Residencial,Torre_40
+682,Perú,Michigan,Kristinton,06435,Rural,Residencial,Torre_2
+683,Perú,Georgia,Clayside,28866,Rural,Residencial,Torre_81
+684,Perú,Connecticut,Jasonport,62131,Rural,Comercial,Torre_94
+685,Perú,North Carolina,East Brianton,72351,Rural,Comercial,Torre_79
+686,Perú,Massachusetts,Lake Carl,09765,Urbana,Residencial,Torre_73
+687,Perú,Rhode Island,North Jenniferville,76374,Rural,Comercial,Torre_49
+688,Perú,Kansas,South Michelle,26691,Urbana,Residencial,Torre_26
+689,Perú,Connecticut,Anthonyville,97796,Urbana,Comercial,Torre_5
+690,Perú,West Virginia,New Jessica,99744,Urbana,Residencial,Torre_13
+691,Perú,West Virginia,Port Jesustown,41024,Rural,Comercial,Torre_71
+692,Perú,Oklahoma,Bakerport,40911,Urbana,Residencial,Torre_18
+693,Perú,Connecticut,Port William,04351,Rural,Comercial,Torre_49
+694,Perú,West Virginia,Leachville,29617,Urbana,Residencial,Torre_31
+695,Perú,Utah,North Andrea,64065,Urbana,Residencial,Torre_29
+696,Perú,New Mexico,Mooreton,84083,Rural,Comercial,Torre_76
+697,Perú,North Dakota,Jeffview,23906,Rural,Residencial,Torre_10
+698,Perú,South Carolina,Shannonbury,31639,Urbana,Comercial,Torre_9
+699,Perú,Vermont,Nicoleside,45560,Urbana,Comercial,Torre_99
+700,Perú,New York,Mcculloughport,82557,Urbana,Comercial,Torre_11
+701,Perú,Maine,Robinsonside,07531,Rural,Comercial,Torre_44
+702,Perú,Michigan,Rodriguezfurt,08580,Urbana,Residencial,Torre_14
+703,Perú,South Carolina,North Judy,85484,Urbana,Residencial,Torre_61
+704,Perú,Colorado,Lake Michelle,59760,Urbana,Residencial,Torre_96
+705,Perú,Indiana,New Erintown,42030,Urbana,Comercial,Torre_69
+706,Perú,Arizona,Kellyborough,70915,Rural,Residencial,Torre_95
+707,Perú,South Dakota,Ryanton,49866,Urbana,Residencial,Torre_94
+708,Perú,Montana,Reynoldsport,06584,Rural,Comercial,Torre_50
+709,Perú,Kentucky,Pedroview,06161,Rural,Residencial,Torre_92
+710,Perú,North Carolina,Rileyberg,68102,Urbana,Comercial,Torre_35
+711,Perú,Virginia,North Geraldmouth,02568,Rural,Comercial,Torre_21
+712,Perú,Michigan,Alyssachester,24745,Urbana,Residencial,Torre_11
+713,Perú,Iowa,South Bruce,72700,Urbana,Comercial,Torre_99
+714,Perú,Pennsylvania,Whitneymouth,09875,Urbana,Comercial,Torre_59
+715,Perú,Michigan,Hudsonshire,32118,Rural,Residencial,Torre_51
+716,Perú,Kentucky,Lake Glennburgh,64493,Rural,Residencial,Torre_35
+717,Perú,Washington,Scottshire,89532,Urbana,Residencial,Torre_96
+718,Perú,West Virginia,West Ryanchester,73104,Urbana,Comercial,Torre_66
+719,Perú,Vermont,South Jamieport,73030,Urbana,Residencial,Torre_3
+720,Perú,California,North Karen,66170,Rural,Residencial,Torre_1
+721,Perú,New Hampshire,Connorstad,31821,Urbana,Residencial,Torre_28
+722,Perú,Florida,Hofurt,08197,Rural,Residencial,Torre_25
+723,Perú,Arizona,West Sheri,29397,Urbana,Comercial,Torre_71
+724,Perú,Texas,North Curtishaven,58492,Rural,Residencial,Torre_43
+725,Perú,Connecticut,Rodriguezmouth,01931,Rural,Residencial,Torre_5
+726,Perú,New Hampshire,West Matthew,16937,Rural,Comercial,Torre_41
+727,Perú,Virginia,Mikemouth,98960,Urbana,Comercial,Torre_61
+728,Perú,Louisiana,Christophermouth,06236,Rural,Comercial,Torre_27
+729,Perú,Wisconsin,Danaberg,22598,Rural,Comercial,Torre_15
+730,Perú,Michigan,Richardsbury,59852,Urbana,Comercial,Torre_22
+731,Perú,Kentucky,East Rachelview,31503,Urbana,Comercial,Torre_97
+732,Perú,New Hampshire,Garrettberg,62473,Urbana,Comercial,Torre_26
+733,Perú,Alaska,Sarahview,13040,Rural,Residencial,Torre_61
+734,Perú,Michigan,North Johnmouth,87862,Urbana,Comercial,Torre_25
+735,Perú,Washington,Lake Shannonton,94301,Rural,Comercial,Torre_33
+736,Perú,Massachusetts,Ericfort,96117,Rural,Residencial,Torre_15
+737,Perú,South Dakota,East Mathew,42398,Urbana,Comercial,Torre_95
+738,Perú,Kansas,West Tracyport,89467,Urbana,Residencial,Torre_11
+739,Perú,Minnesota,Nortonstad,70305,Rural,Comercial,Torre_10
+740,Perú,Washington,North Kim,56823,Urbana,Comercial,Torre_7
+741,Perú,Mississippi,South Joseph,85414,Urbana,Residencial,Torre_23
+742,Perú,Minnesota,Meredithburgh,75558,Rural,Residencial,Torre_65
+743,Perú,Virginia,Perrybury,58637,Rural,Residencial,Torre_26
+744,Perú,Missouri,Joshuaview,75203,Rural,Residencial,Torre_50
+745,Perú,Illinois,Greggborough,31958,Urbana,Residencial,Torre_26
+746,Perú,Alaska,West Kimberlyfurt,32916,Urbana,Residencial,Torre_74
+747,Perú,Montana,Stevenville,09278,Rural,Comercial,Torre_92
+748,Perú,South Dakota,Port Melindabury,35561,Urbana,Residencial,Torre_15
+749,Perú,Pennsylvania,South Jaime,96738,Urbana,Comercial,Torre_16
+750,Perú,Ohio,Katherineton,49747,Urbana,Comercial,Torre_12
+751,Perú,Maryland,Port Adrian,63874,Rural,Comercial,Torre_69
+752,Perú,Montana,Seanshire,51885,Urbana,Comercial,Torre_39
+753,Perú,Rhode Island,Jacquelinemouth,87208,Urbana,Comercial,Torre_51
+754,Perú,Alaska,Lake Susan,24133,Rural,Residencial,Torre_89
+755,Perú,Ohio,Frankmouth,38311,Urbana,Residencial,Torre_19
+756,Perú,Delaware,Onealville,93358,Rural,Residencial,Torre_13
+757,Perú,Massachusetts,Lambertfort,38867,Urbana,Residencial,Torre_87
+758,Perú,Alaska,North Stevenchester,79641,Urbana,Residencial,Torre_30
+759,Perú,Nevada,West David,34821,Urbana,Comercial,Torre_100
+760,Perú,Georgia,Griffinstad,01210,Rural,Residencial,Torre_86
+761,Perú,Colorado,Colonport,28312,Urbana,Comercial,Torre_46
+762,Perú,Florida,Kennedymouth,29961,Rural,Comercial,Torre_70
+763,Perú,Arkansas,Christopherville,30759,Urbana,Comercial,Torre_83
+764,Perú,Texas,East Gwendolynmouth,61718,Rural,Comercial,Torre_98
+765,Perú,Oklahoma,New Steventown,01404,Rural,Residencial,Torre_45
+766,Perú,Maine,East Kathy,12200,Urbana,Residencial,Torre_49
+767,Perú,Illinois,Anthonymouth,52496,Rural,Comercial,Torre_91
+768,Perú,Wisconsin,Lake Matthew,42753,Rural,Comercial,Torre_69
+769,Perú,Tennessee,South Philip,09423,Rural,Residencial,Torre_50
+770,Perú,Mississippi,West Erikville,65621,Rural,Residencial,Torre_3
+771,Perú,Kansas,West Kimberly,01808,Rural,Residencial,Torre_9
+772,Perú,Oregon,West Larryview,94118,Urbana,Residencial,Torre_24
+773,Perú,Colorado,New Elizabeth,48487,Urbana,Comercial,Torre_50
+774,Perú,Wisconsin,South Thomas,59624,Rural,Comercial,Torre_7
+775,Perú,Iowa,West Cynthiafurt,86915,Urbana,Comercial,Torre_23
+776,Perú,Texas,West Mikeside,65415,Rural,Residencial,Torre_57
+777,Perú,Nevada,Robertsland,07001,Urbana,Residencial,Torre_63
+778,Perú,Massachusetts,Terryport,36527,Rural,Residencial,Torre_13
+779,Perú,Tennessee,Smithtown,74441,Urbana,Comercial,Torre_98
+780,Perú,South Dakota,North Matthewberg,89214,Rural,Comercial,Torre_42
+781,Perú,Vermont,Traciville,36099,Rural,Comercial,Torre_20
+782,Perú,South Dakota,Port Kyleport,27019,Rural,Residencial,Torre_16
+783,Perú,Maine,South Jonathan,23167,Urbana,Residencial,Torre_47
+784,Perú,Alaska,Jordanchester,79254,Urbana,Residencial,Torre_85
+785,Perú,California,Barbarafort,73743,Urbana,Comercial,Torre_99
+786,Perú,New Jersey,Allenburgh,33711,Urbana,Residencial,Torre_26
+787,Perú,Louisiana,Mitchellville,33575,Rural,Residencial,Torre_88
+788,Perú,South Dakota,East John,67726,Urbana,Residencial,Torre_86
+789,Perú,Missouri,Joshuamouth,12091,Urbana,Comercial,Torre_82
+790,Perú,Indiana,North Jamesland,14333,Urbana,Comercial,Torre_37
+791,Perú,Hawaii,Alyssaton,53976,Rural,Comercial,Torre_92
+792,Perú,Washington,Carriefort,49930,Rural,Residencial,Torre_39
+793,Perú,New Hampshire,Mosleyburgh,69772,Urbana,Residencial,Torre_15
+794,Perú,Alabama,Gabrielleborough,08794,Urbana,Comercial,Torre_29
+795,Perú,Hawaii,New Lee,46094,Urbana,Comercial,Torre_12
+796,Perú,Alabama,Port Benjamin,84728,Rural,Residencial,Torre_39
+797,Perú,Hawaii,North Jamesville,81649,Urbana,Residencial,Torre_79
+798,Perú,Oregon,South Christopherborough,35266,Urbana,Residencial,Torre_66
+799,Perú,Utah,Jenniferchester,35187,Rural,Residencial,Torre_90
+800,Perú,Arkansas,Port Kendra,56818,Urbana,Residencial,Torre_3
+801,Perú,Colorado,South Patrick,58944,Urbana,Residencial,Torre_82
+802,Perú,Mississippi,New Kathychester,59269,Rural,Comercial,Torre_63
+803,Perú,Wyoming,Dunlapchester,54070,Rural,Comercial,Torre_45
+804,Perú,Arkansas,East Autumnburgh,54093,Urbana,Comercial,Torre_31
+805,Perú,Texas,Sherriburgh,93008,Urbana,Comercial,Torre_80
+806,Perú,Iowa,Huangstad,55275,Urbana,Comercial,Torre_1
+807,Perú,Iowa,Alvaradoport,33754,Urbana,Comercial,Torre_21
+808,Perú,New York,South Richard,13917,Rural,Residencial,Torre_54
+809,Perú,Kentucky,Masonbury,20036,Urbana,Residencial,Torre_27
+810,Perú,Maryland,Millershire,71237,Urbana,Residencial,Torre_77
+811,Perú,Oregon,Foxmouth,70057,Rural,Comercial,Torre_81
+812,Perú,Mississippi,Kimberlymouth,73337,Urbana,Comercial,Torre_45
+813,Perú,West Virginia,Waltersshire,80842,Rural,Residencial,Torre_24
+814,Perú,Tennessee,Kathleenhaven,76602,Urbana,Comercial,Torre_45
+815,Perú,Ohio,North Margaretport,55418,Rural,Comercial,Torre_82
+816,Perú,Massachusetts,West Julie,92859,Urbana,Residencial,Torre_60
+817,Perú,Tennessee,North Shellyborough,02939,Rural,Comercial,Torre_75
+818,Perú,Wyoming,West Samuelland,42156,Urbana,Comercial,Torre_57
+819,Perú,Vermont,North Jillbury,24537,Urbana,Comercial,Torre_8
+820,Perú,New York,South Davidshire,52927,Rural,Residencial,Torre_32
+821,Perú,South Carolina,Charlesbury,95607,Urbana,Residencial,Torre_45
+822,Perú,North Carolina,Chanland,91161,Rural,Comercial,Torre_9
+823,Perú,Wyoming,Port Stephanie,69434,Urbana,Comercial,Torre_24
+824,Perú,Arkansas,Hutchinsonmouth,94005,Urbana,Comercial,Torre_11
+825,Perú,Kansas,Johnville,39857,Urbana,Comercial,Torre_54
+826,Perú,Florida,Toddhaven,05128,Rural,Residencial,Torre_93
+827,Perú,West Virginia,South Jeffmouth,91905,Rural,Comercial,Torre_3
+828,Perú,Indiana,Port Karen,42909,Rural,Residencial,Torre_42
+829,Perú,Iowa,Williamstown,89542,Urbana,Residencial,Torre_31
+830,Perú,Connecticut,New Beth,98141,Urbana,Comercial,Torre_84
+831,Perú,Florida,Port Davidhaven,02134,Urbana,Residencial,Torre_99
+832,Perú,Connecticut,East Jacquelineburgh,04443,Rural,Residencial,Torre_42
+833,Perú,Arizona,Watsonland,02204,Rural,Residencial,Torre_90
+834,Perú,Rhode Island,Ayersberg,33007,Rural,Comercial,Torre_32
+835,Perú,Oklahoma,South Christina,48528,Urbana,Residencial,Torre_3
+836,Perú,Colorado,Michaelview,26979,Rural,Residencial,Torre_60
+837,Perú,Pennsylvania,Jaclynfurt,10256,Urbana,Residencial,Torre_65
+838,Perú,Washington,Johnbury,27612,Rural,Residencial,Torre_35
+839,Perú,South Carolina,South Diane,06024,Rural,Comercial,Torre_62
+840,Perú,Nevada,South Theresa,28817,Urbana,Comercial,Torre_72
+841,Perú,New Jersey,East Mary,85223,Rural,Comercial,Torre_38
+842,Perú,Tennessee,Elizabethton,78516,Urbana,Comercial,Torre_41
+843,Perú,New Hampshire,Jacobfort,77449,Rural,Comercial,Torre_5
+844,Perú,Montana,Lake Sherri,24845,Rural,Comercial,Torre_84
+845,Perú,Alabama,New Maureen,45933,Urbana,Comercial,Torre_78
+846,Perú,West Virginia,Stevenchester,72583,Urbana,Comercial,Torre_6
+847,Perú,South Carolina,New David,71647,Rural,Residencial,Torre_71
+848,Perú,Wisconsin,Port Emily,37085,Urbana,Residencial,Torre_25
+849,Perú,South Dakota,Lake Andrew,55405,Urbana,Residencial,Torre_35
+850,Perú,North Dakota,South Davidborough,14054,Rural,Residencial,Torre_89
+851,Perú,South Dakota,Clarktown,91424,Rural,Comercial,Torre_35
+852,Perú,Massachusetts,Roseville,65158,Rural,Comercial,Torre_41
+853,Perú,Virginia,Stevenmouth,90752,Rural,Comercial,Torre_44
+854,Perú,North Dakota,Dickersonfort,20332,Urbana,Residencial,Torre_80
+855,Perú,Indiana,Port Jacqueline,56293,Urbana,Residencial,Torre_9
+856,Perú,Florida,Stephenton,79352,Urbana,Residencial,Torre_26
+857,Perú,South Carolina,East Briannatown,01458,Rural,Residencial,Torre_86
+858,Perú,Maryland,South Kendraborough,47580,Urbana,Comercial,Torre_1
+859,Perú,Oklahoma,West Jimmyfort,23586,Rural,Comercial,Torre_43
+860,Perú,Maine,Kelleybury,77317,Urbana,Residencial,Torre_26
+861,Perú,Utah,Petersenfort,63207,Rural,Residencial,Torre_93
+862,Perú,Montana,Davenportmouth,44205,Urbana,Residencial,Torre_74
+863,Perú,Rhode Island,North James,01507,Urbana,Comercial,Torre_7
+864,Perú,North Dakota,Chelseaburgh,00598,Rural,Residencial,Torre_46
+865,Perú,Wisconsin,South Katelynfurt,35381,Urbana,Comercial,Torre_1
+866,Perú,Arkansas,Thompsonton,28117,Urbana,Comercial,Torre_56
+867,Perú,New Jersey,Port Coreyville,69466,Rural,Comercial,Torre_42
+868,Perú,Oregon,East Philipview,75822,Urbana,Comercial,Torre_83
+869,Perú,Oregon,Port Catherinehaven,72182,Rural,Residencial,Torre_63
+870,Perú,Kansas,Millsmouth,99068,Rural,Residencial,Torre_27
+871,Perú,Montana,Lake Priscillaview,23650,Rural,Comercial,Torre_83
+872,Perú,Kentucky,West Brianton,94027,Rural,Residencial,Torre_11
+873,Perú,Oklahoma,Baileyfort,51968,Rural,Residencial,Torre_24
+874,Perú,Texas,Wendyburgh,80051,Urbana,Residencial,Torre_10
+875,Perú,Maryland,Port Joanna,62690,Rural,Comercial,Torre_84
+876,Perú,West Virginia,New Lori,74406,Rural,Residencial,Torre_72
+877,Perú,Delaware,Port Joshua,64843,Urbana,Comercial,Torre_92
+878,Perú,Massachusetts,Guerraberg,27119,Urbana,Comercial,Torre_35
+879,Perú,Oregon,West Lori,29720,Urbana,Comercial,Torre_85
+880,Perú,Virginia,Lake Jeffreyland,48676,Urbana,Residencial,Torre_18
+881,Perú,Kentucky,Shannonstad,63849,Urbana,Comercial,Torre_70
+882,Perú,Vermont,East Jamesbury,77831,Rural,Residencial,Torre_27
+883,Perú,North Carolina,North Jonathanburgh,48016,Rural,Residencial,Torre_54
+884,Perú,Louisiana,South Jordanstad,72103,Urbana,Residencial,Torre_21
+885,Perú,New Hampshire,Lake Desireefurt,56966,Rural,Comercial,Torre_11
+886,Perú,New Hampshire,Marcusmouth,68770,Rural,Comercial,Torre_64
+887,Perú,Connecticut,Bellmouth,39182,Urbana,Comercial,Torre_35
+888,Perú,Pennsylvania,New Regina,57645,Urbana,Comercial,Torre_61
+889,Perú,Maryland,Charlesborough,33440,Rural,Comercial,Torre_17
+890,Perú,Massachusetts,North Joshuastad,37700,Rural,Comercial,Torre_56
+891,Perú,Vermont,New Julie,64720,Urbana,Residencial,Torre_53
+892,Perú,California,Andradeport,79640,Urbana,Comercial,Torre_5
+893,Perú,Virginia,Sancheztown,12794,Rural,Residencial,Torre_12
+894,Perú,Nevada,Port Andrea,97311,Urbana,Residencial,Torre_60
+895,Perú,Michigan,Port Richard,92219,Urbana,Residencial,Torre_5
+896,Perú,West Virginia,Chloeview,06654,Urbana,Residencial,Torre_31
+897,Perú,Alabama,Lake Sarastad,01100,Urbana,Residencial,Torre_19
+898,Perú,Connecticut,New Michaelmouth,99110,Urbana,Comercial,Torre_66
+899,Perú,Virginia,Janebury,35601,Rural,Residencial,Torre_62
+900,Perú,Michigan,West Andrew,51562,Rural,Residencial,Torre_57
+901,Perú,Pennsylvania,West Jennifer,69102,Rural,Residencial,Torre_31
+902,Perú,Connecticut,New Joseph,85667,Urbana,Comercial,Torre_52
+903,Perú,Oklahoma,Port Lisa,84716,Urbana,Residencial,Torre_89
+904,Perú,Illinois,Melodyfurt,52078,Rural,Comercial,Torre_67
+905,Perú,Oregon,Markchester,25625,Urbana,Residencial,Torre_74
+906,Perú,Utah,Carterbury,86426,Urbana,Residencial,Torre_25
+907,Perú,Texas,West Meganmouth,94647,Urbana,Residencial,Torre_65
+908,Perú,Alabama,Pruittberg,08032,Rural,Comercial,Torre_51
+909,Perú,Alaska,Gardnerland,49808,Rural,Comercial,Torre_29
+910,Perú,Alaska,Jasonville,75324,Urbana,Residencial,Torre_40
+911,Perú,Maryland,Marktown,69374,Rural,Residencial,Torre_65
+912,Perú,West Virginia,Williamtown,86619,Rural,Comercial,Torre_91
+913,Perú,New Jersey,West Timothy,03338,Rural,Residencial,Torre_97
+914,Perú,Delaware,South Elizabeth,89523,Rural,Residencial,Torre_43
+915,Perú,North Dakota,Brentstad,88796,Rural,Comercial,Torre_21
+916,Perú,Texas,Michelletown,43100,Rural,Residencial,Torre_2
+917,Perú,Alaska,New Paulmouth,65606,Rural,Comercial,Torre_49
+918,Perú,New York,Carterberg,32820,Urbana,Comercial,Torre_86
+919,Perú,West Virginia,Johnsonbury,48082,Rural,Comercial,Torre_22
+920,Perú,Kansas,Maloneland,70732,Urbana,Comercial,Torre_30
+921,Perú,Louisiana,Lake Lancemouth,43847,Rural,Comercial,Torre_82
+922,Perú,North Carolina,South Darin,85952,Rural,Residencial,Torre_35
+923,Perú,Maryland,North Grant,77861,Rural,Comercial,Torre_69
+924,Perú,Kentucky,East Stacey,81667,Urbana,Comercial,Torre_97
+925,Perú,Illinois,Michellehaven,08598,Urbana,Residencial,Torre_88
+926,Perú,West Virginia,Lake Sheila,93474,Urbana,Residencial,Torre_100
+927,Perú,Montana,Kimberlyborough,04969,Urbana,Comercial,Torre_95
+928,Perú,Rhode Island,West Laura,29661,Urbana,Residencial,Torre_11
+929,Perú,New Hampshire,East Rachelfort,58344,Urbana,Residencial,Torre_38
+930,Perú,New Mexico,North Brittany,54137,Rural,Residencial,Torre_74
+931,Perú,Maryland,New Meganburgh,65628,Urbana,Residencial,Torre_72
+932,Perú,Michigan,North Amanda,95773,Urbana,Comercial,Torre_11
+933,Perú,Alabama,Normanhaven,36783,Urbana,Residencial,Torre_35
+934,Perú,Wisconsin,Chelseabury,37533,Rural,Residencial,Torre_4
+935,Perú,Oregon,Paulstad,78744,Urbana,Residencial,Torre_62
+936,Perú,Wyoming,South Charles,11955,Rural,Comercial,Torre_59
+937,Perú,Rhode Island,Coxchester,02827,Urbana,Residencial,Torre_96
+938,Perú,Rhode Island,Gregorytown,33949,Urbana,Comercial,Torre_33
+939,Perú,Wyoming,Bakerton,12287,Urbana,Residencial,Torre_73
+940,Perú,Maine,New Dianaton,14354,Rural,Residencial,Torre_78
+941,Perú,Connecticut,Margaretfort,31558,Urbana,Comercial,Torre_50
+942,Perú,Michigan,Colonshire,70177,Urbana,Residencial,Torre_55
+943,Perú,Vermont,Deleonborough,98427,Rural,Comercial,Torre_23
+944,Perú,Colorado,West Paulview,76106,Rural,Comercial,Torre_8
+945,Perú,Georgia,Alisonmouth,42942,Rural,Comercial,Torre_96
+946,Perú,Missouri,West Edward,30614,Rural,Residencial,Torre_30
+947,Perú,New Jersey,Christopherstad,22044,Rural,Residencial,Torre_75
+948,Perú,Kentucky,Davilamouth,64829,Rural,Residencial,Torre_87
+949,Perú,Minnesota,Port Peter,54543,Urbana,Comercial,Torre_55
+950,Perú,Louisiana,Sarahview,16023,Rural,Comercial,Torre_27
+951,Perú,South Carolina,Rachelshire,46822,Urbana,Comercial,Torre_38
+952,Perú,Utah,North Jamesland,06664,Urbana,Residencial,Torre_7
+953,Perú,West Virginia,Michelleview,12771,Rural,Residencial,Torre_96
+954,Perú,Wyoming,Jacksonborough,20648,Rural,Residencial,Torre_6
+955,Perú,Iowa,Lopezberg,16811,Rural,Residencial,Torre_90
+956,Perú,Virginia,Olsonstad,14823,Urbana,Comercial,Torre_44
+957,Perú,Idaho,East Frankmouth,50776,Urbana,Residencial,Torre_47
+958,Perú,Oklahoma,Jimenezhaven,64007,Rural,Comercial,Torre_17
+959,Perú,New Jersey,Johnsonmouth,51112,Urbana,Comercial,Torre_78
+960,Perú,New Jersey,East Jose,23352,Rural,Comercial,Torre_34
+961,Perú,Kentucky,New Gary,42450,Urbana,Residencial,Torre_22
+962,Perú,New Mexico,Roweville,65455,Urbana,Comercial,Torre_26
+963,Perú,Connecticut,Madelinebury,03729,Urbana,Residencial,Torre_35
+964,Perú,Colorado,Floresshire,70262,Rural,Residencial,Torre_34
+965,Perú,Utah,Rosefurt,93530,Urbana,Residencial,Torre_59
+966,Perú,Idaho,Cartermouth,25809,Rural,Comercial,Torre_95
+967,Perú,Oklahoma,Paulville,41004,Rural,Comercial,Torre_43
+968,Perú,Arkansas,South Timothy,43751,Rural,Comercial,Torre_88
+969,Perú,Wyoming,Port Jason,90097,Rural,Comercial,Torre_53
+970,Perú,Kentucky,Lake Daniel,77800,Rural,Residencial,Torre_93
+971,Perú,Mississippi,Davidshire,86185,Urbana,Comercial,Torre_53
+972,Perú,Michigan,New Deborah,31846,Rural,Comercial,Torre_36
+973,Perú,Mississippi,Walkerside,22749,Rural,Comercial,Torre_23
+974,Perú,Arkansas,Harrisonburgh,50960,Rural,Comercial,Torre_70
+975,Perú,Missouri,New Alyssaport,66463,Urbana,Comercial,Torre_48
+976,Perú,Texas,Port Andrewview,77847,Urbana,Comercial,Torre_8
+977,Perú,Michigan,Williamsview,39299,Urbana,Comercial,Torre_97
+978,Perú,Idaho,Williamsside,35637,Urbana,Residencial,Torre_77
+979,Perú,Maine,Camposshire,14148,Urbana,Comercial,Torre_10
+980,Perú,New Mexico,Dianafort,51607,Rural,Comercial,Torre_15
+981,Perú,Arizona,Moyerview,68945,Urbana,Comercial,Torre_46
+982,Perú,Ohio,North Christopherborough,85764,Rural,Comercial,Torre_92
+983,Perú,North Carolina,West Darlene,45721,Urbana,Comercial,Torre_99
+984,Perú,Maryland,Vickiside,11132,Rural,Residencial,Torre_26
+985,Perú,Massachusetts,New Richard,94922,Urbana,Comercial,Torre_85
+986,Perú,Louisiana,New Christopher,35132,Rural,Residencial,Torre_64
+987,Perú,Wisconsin,Alexanderport,49530,Urbana,Residencial,Torre_69
+988,Perú,South Carolina,Wellsberg,27775,Urbana,Comercial,Torre_59
+989,Perú,South Dakota,Lindsayville,78188,Rural,Residencial,Torre_9
+990,Perú,Massachusetts,Dustinchester,90000,Rural,Residencial,Torre_9
+991,Perú,California,Harrisonshire,57016,Rural,Comercial,Torre_96
+992,Perú,Minnesota,East Paige,89291,Urbana,Residencial,Torre_78
+993,Perú,Alaska,Christineburgh,98868,Rural,Residencial,Torre_75
+994,Perú,New Hampshire,Newtonmouth,45916,Urbana,Comercial,Torre_26
+995,Perú,South Carolina,Meganside,12558,Urbana,Comercial,Torre_89
+996,Perú,Idaho,Thomasland,00796,Rural,Comercial,Torre_44
+997,Perú,Minnesota,Patricktown,82601,Rural,Comercial,Torre_83
+998,Perú,South Carolina,Walkertown,63208,Rural,Comercial,Torre_11
+999,Perú,Maine,Port Rhondatown,91439,Rural,Residencial,Torre_71
+1000,Perú,Vermont,New Teresahaven,97618,Urbana,Residencial,Torre_18
